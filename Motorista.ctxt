@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Motorista
+comment0.text=\r\n\ Classe\ que\ representa\ um\ motorista\ de\ aplicativo.\r\n\ \r\n\ Um\ motorista\ possui\ um\ nome,\ a\ placa\ do\ seu\ carro\ e\ o\ total\ \r\n\ recebido\ pelas\ viagens.\r\n\ \r\n\ @author\ Julio\ C\u00E9sar\ Alves\r\n\ @version\ 2023.11.02\r\n
+comment1.params=nome\ placaDoCarro
+comment1.target=Motorista(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Motorista\r\n
+comment2.params=
+comment2.target=java.lang.String\ obterNome()
+comment2.text=\r\n\ @return\ o\ nome\ do\ motorista\r\n
+comment3.params=
+comment3.target=java.lang.String\ obterPlacaDoCarro()
+comment3.text=\r\n\ @return\ a\ placa\ do\ carro\ do\ motorista\r\n
+comment4.params=
+comment4.target=int\ obterValorTotal()
+comment4.text=\r\n\ @return\ o\ valor\ total\ recebido\ pelo\ motorista\ pelas\ viagens\r\n
+comment5.params=valor
+comment5.target=void\ receberValor(int)
+comment5.text=\r\n\ Recebe\ o\ valor\ referente\ a\ uma\ viagem\r\n
+numComments=6

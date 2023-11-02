@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Viagem
+comment0.text=\r\n\ Classe\ que\ representa\ uma\ viagem\ feita\ no\ aplicativo\ (ex.\:\ Uber).\r\n\ \r\n\ Uma\ viagem\ tem\ o\ motorista,\ o\ nome\ do\ passageiro\ e\ a\ dist\u00E2ncia\ a\ ser\ percorrida.\r\n\ Al\u00E9m\ disso,\ tem\ tamb\u00E9m\ o\ valor\ fixo\ pago\ ao\ motorista\ por\ km/rodado.\r\n\ \r\n\ @author\ Julio\ C\u00E9sar\ Alves\r\n\ @version\ 2023.11.02\r\n
+comment1.params=motorista\ passageiro\ distancia
+comment1.target=Viagem(Motorista,\ java.lang.String,\ int)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Viagem\r\n
+comment2.params=
+comment2.target=Motorista\ obterMotorista()
+comment2.text=\r\n\ @return\ o\ motorista\ da\ viagem\r\n
+comment3.params=
+comment3.target=java.lang.String\ obterNomeDoPassageiro()
+comment3.text=\r\n\ @return\ o\ nome\ do\ passagem\ que\ far\u00E1\ a\ viagem\r\n
+comment4.params=
+comment4.target=int\ obterDistancia()
+comment4.text=\r\n\ @return\ dist\u00E2ncia\ a\ ser\ percorrida\ na\ viagem\r\n
+numComments=5
